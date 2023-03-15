@@ -1,2 +1,5 @@
 netlify : https://node-module-project.netlify.app/
 github : https://github.com/AbhyanshuPandeyji/node-module-project.git
+
+for running the code use npm install nodemon -g
+and then use npm start
